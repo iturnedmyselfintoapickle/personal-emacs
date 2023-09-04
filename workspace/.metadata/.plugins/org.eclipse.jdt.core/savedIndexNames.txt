@@ -1,0 +1,4 @@
+INDEX VERSION 1.133+/home/enforcie/.emacs.d/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+306731816.index
+4281602389.index
